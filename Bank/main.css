@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: " Georgia", serif;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(bank69.jfif);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "cursive";
+}
+
+.banner {
+  position: relative;
+  width: 100%;
+  min-height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner .content {
+  max-width: 900px;
+  text-align: center;
+}
+.banner .content h2 {
+  font-size: 4em;
+  color: rgba(265, 45, 138, 60);
+  justify-content: right margin-bottom:;
+}
+
+hr {
+  width: 800px;
+  margin-bottom: 2rem;
+  border-top: 1px solid  rgba(265, 45, 138, 60);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  <span>color:  rgba(265, 45, 138, 60);
+  background-color: rgb(169,169,169);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);/<span>
+}
